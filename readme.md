@@ -4,7 +4,7 @@
 
 -Install composer<br/>
 
-APP_NAME=Laravel
+APP_NAME=Laravel<br/>
 APP_ENV=local<br/>
 APP_KEY=base64:g7Ny+0032+0i5EAFE0C0FkCZb+CdlBn6nK/GmT0s6sQ=<br/>
 APP_DEBUG=true<br/>
@@ -17,6 +17,26 @@ DB_PORT=3306<br/>
 DB_DATABASE=maestro<br/>
 DB_USERNAME=root<br/>
 DB_PASSWORD=<br/>
+
+BROADCAST_DRIVER=log<br/>
+CACHE_DRIVER=file<br/>
+SESSION_DRIVER=file<br/>
+QUEUE_DRIVER=sync<br/>
+
+REDIS_HOST=127.0.0.1<br/>
+REDIS_PASSWORD=null<br/>
+REDIS_PORT=6379<br/>
+
+MAIL_DRIVER=smtp<br/>
+MAIL_HOST=smtp.mailtrap.io<br/>
+MAIL_PORT=2525<br/>
+MAIL_USERNAME=null<br/>
+MAIL_PASSWORD=null<br/>
+MAIL_ENCRYPTION=null<br/>
+
+PUSHER_APP_ID=<br/>
+PUSHER_APP_KEY=<br/>
+PUSHER_APP_SECRET=<br/>
 
 ## II.Giao diện Admin 
 * Để truy cập vào khu vực Admin, gõ đường dẫn :localhost/AdminTool/dashboard 
