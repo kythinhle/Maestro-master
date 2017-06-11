@@ -1,6 +1,6 @@
 ## Setup 
 ## I. Config and Database
-(Đây là lần đầu em sử dụng github nên không biết tại sao file .env và composer.phar không up lên được, chắc là mặc định. Vì thế em sẽ thông tin config ở đây luôn.)<br/>
+(Đây là lần đầu em sử dụng github nên không biết tại sao file .env không up lên được, chắc là mặc định. Vì thế em sẽ thông tin config ở đây luôn.)<br/>
 
 -Install composer<br/>
 
